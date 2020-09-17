@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=crab
+Comment=A Material based Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=crab
+MetacityTheme=crab
+IconTheme=crab
+CursorTheme=crab
+CursorSize=24
