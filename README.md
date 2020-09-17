@@ -3,7 +3,7 @@
 # crab colors
 A brownish [solarized](https://ethanschoonover.com/solarized/) inspired color palette.
 
-## usage
+## Usage
 You can use **crab** like **solarized**, the only difference is that mine has warmer colors and the background is brown and not blue.
 
 The benefit of this simularity is that you can go to the [altercation/solarited](https://github.com/altercation/solarized) repository if you need a color palette for a special program and change the colors afterwards (because they got like all of them).
@@ -34,7 +34,7 @@ blue      | #2e8ad3 | 4/4  | blue      |  33 #0087ff | 55  -8 -46 |  46 138 211 
 cyan      | #33a19a | 6/6  | cyan      |  37 #00afaf | 60 -33 -06 |  51 161 154 | 176  52  42
 green     | #889800 | 2/2  | green     |  64 #5f8700 | 60 -18  64 | 136 152   0 |  66 100  30
 
-## Mockup
+## Mockups
 
 ![dark](img/code-example-dark.png)
 ![light](img/code-example-light.png)
